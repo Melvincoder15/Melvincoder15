@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CSE-Amal%20Jyothi%20College-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSE-Amal%20Jyothi%20College%20of%20Engineering-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Kottayam-Kerala-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge" />
 </p>
@@ -13,9 +13,16 @@
 ---
 
 ### 🚀 What I'm building
-| Project | What it does | Stack |
-|---|---|---|
-| 🏥 **Patient Management** | Microservices for patients, billing and auth, talking over Kafka and gRPC | Spring Boot · Kafka · gRPC · Postgres · Docker |
+# 🏥 Patient Management
+A microservices-based backend that manages **patient records**, **billing**, and **authentication**.
+Services route traffic through an API gateway, process analytics, and communicate over **gRPC** and **Kafka**.
+## 🧰 Tech stack
+| Layer | Technology |
+|---|---|
+| Backend | Java, Spring Boot (Microservices, API Gateway) |
+| Communication | gRPC (Protobuf), Apache Kafka |
+| Database | PostgreSQL |
+| Infrastructure | Docker |
 # 🍲 HomeCook Connect
 A full-stack web app that connects **home cooks** with **people who want home-made food**.
 Cooks can list their dishes, and customers can discover, browse and order them in one place.
