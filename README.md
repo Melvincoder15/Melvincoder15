@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Melvin Jose 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Backend+dev+in+the+making+%E2%98%95;Spring+Boot+%2B+Kafka+%2B+Docker+%F0%9F%90%B3;Teaching+machines+to+spot+faulty+solar+panels+%E2%98%80%EF%B8%8F" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Backend+dev+in+the+making+%E2%98%95;Spring+Boot+%2B+Kafka+%2B+Docker+%F0%9F%90%B3; alt="Typing animation" />
 </p>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=560&lines=Full-Stack+Software+Engineer+%F0%9F%92%BB;Spring+Boot+%2B+React+%2B+Microservices+%F0%9F%9A%80;Kafka+%2B+gRPC+%2B+Docker+%F0%9F%90%B3;Building+scalable+end-to-end+systems+%E2%9C%A8" alt="Typing animation" />
 <p align="center">
   <img src="https://img.shields.io/badge/CSE-Amal%20Jyothi%20College%20of%20Engineering-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Kottayam-Kerala-orange?style=for-the-badge" />
